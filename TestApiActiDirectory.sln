@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApiActiDirectory", "TestApiActiDirectory\TestApiActiDirectory.csproj", "{5AA57A8F-A171-4B3A-9865-FF44B53CCD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA57A8F-A171-4B3A-9865-FF44B53CCD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA57A8F-A171-4B3A-9865-FF44B53CCD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA57A8F-A171-4B3A-9865-FF44B53CCD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA57A8F-A171-4B3A-9865-FF44B53CCD16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34805D4F-783A-4EE7-BCBE-A386DA156A50}
+	EndGlobalSection
+EndGlobal
